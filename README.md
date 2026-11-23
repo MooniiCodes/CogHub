@@ -1,6 +1,6 @@
 # Cog Hub
 
-This is the main area where I post games made in Cog.
+This is the main area where I post games made with Cog.
 
 Here is all of the games currently avalible
 
